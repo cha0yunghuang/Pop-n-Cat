@@ -5,9 +5,8 @@
 
 ## Build With
 
-[Selenium with Python](https://selenium-python.readthedocs.io/)
-
-[ChromeDriver](http://chromedriver.chromium.org/)
+* [Selenium with Python](https://selenium-python.readthedocs.io/)
+* [ChromeDriver](http://chromedriver.chromium.org/)
 
 
 ## Get Started
