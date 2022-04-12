@@ -21,12 +21,7 @@
 
 4. Modify the path of ChromeDriver
 
-  ```
+  ```python=
   driver = webdriver.Chrome('YOUR_CHROMEDRIVER_PATH')
   ```
-5. Run
-
-## Contact
-Twitter: [@cha0yung_huang]https://twitter.com/cha0yung_huang
-
-Email: chaoyung_huang@pm.me
+5. Run your Python script
