@@ -17,9 +17,6 @@
   
 3. Get ChromeDriver at http://chromedriver.chromium.org/
 
-4. Modify the path of ChromeDriver
+4. Modify the path of ChromeDriver in `config.py`
 
-  ```python=
-  driver = webdriver.Chrome('YOUR_CHROMEDRIVER_PATH')
-  ```
 5. Run your Python script
