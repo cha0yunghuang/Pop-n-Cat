@@ -23,5 +23,5 @@
 chromeDriver = 'CHROMEDRIVER_PATH'
 ```
 
-5. Run your Python script `pop-n-cat`
+5. Run your Python script `popncat.py`
 
