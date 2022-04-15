@@ -17,7 +17,7 @@
   
 3. Get ChromeDriver at http://chromedriver.chromium.org/ and unzip it
 
-4. Create a Python file `config.py`, then fill in your personal data like this:
+4. Create a Python file `config.py`, then fill in your data like this:
 
 ```python
 chromeDriver = 'CHROMEDRIVER_PATH'
