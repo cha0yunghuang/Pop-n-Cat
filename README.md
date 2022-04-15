@@ -15,8 +15,13 @@
 
 2. Use pip to install the selenium package like this: `pip3 install selenium`
   
-3. Get ChromeDriver at http://chromedriver.chromium.org/
+3. Get ChromeDriver at http://chromedriver.chromium.org/ and unzip it
 
-4. Modify the path of ChromeDriver in `config.py`
+4. Create a Python file `config.py`, then fill in your personal data like this:
 
-5. Run your Python script
+```python
+chromeDriver = 'CHROMEDRIVER_PATH'
+```
+
+5. Run your Python script `pop-n-cat`
+
