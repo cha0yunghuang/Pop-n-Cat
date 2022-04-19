@@ -20,8 +20,8 @@
 4. Create a Python file `config.py`, then fill in your data like this:
 
 ```python
-chromeDriver = 'CHROMEDRIVER_PATH'
+chromeDriver = 'YOUR_CHROMEDRIVER_PATH'
 ```
 
-5. Run your Python script `popncat.py`
+5. Run the Python script `popncat.py`
 
