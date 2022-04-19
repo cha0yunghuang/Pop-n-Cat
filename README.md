@@ -1,6 +1,6 @@
 # Pop'n Cat
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/46222458/162881861-9148333b-30b8-488f-b02d-ba2409d2adc6.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/46222458/163944472-d2625d24-352b-466a-a3b4-132b61491ef4.gif)
 
 
 ## Build With
